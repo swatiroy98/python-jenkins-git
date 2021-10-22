@@ -1,0 +1,6 @@
+[{"productId": 1, "productName": "Iphone13", "price": 75444.89, "rating": 4.3},
+  {"productId": 2, "productName": "SamsungGalaxyFlip", "price": 19888.89, "rating": 4.2},
+  {"productId": 3, "productName": "OnePlus", "price": 65937.89, "rating": 4.5},
+  {"productId": "10", "productName": "Xiaomi", "price": "24387", "rating": "4.1"},
+  {"productId": "5", "productName": "nokia", "price": "5009", "rating": "3.8"}
+]
